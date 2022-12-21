@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esraa</h1>
-<h3 align="center">A passionate Backend developer and computer science student</h3>
+<h3 align="center">A passionate NodeJS developer and a computer science student</h3>
 
 - 🌱 I’m currently learning **TypeScript, Jest**
 
@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/esraa-ragab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraa-ragab/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100040337610569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100040337610569" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
