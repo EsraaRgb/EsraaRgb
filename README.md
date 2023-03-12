@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esraa</h1>
 <h3 align="center">A passionate NodeJS developer and a computer science student</h3>
 
-- 🌱 I’m currently learning NLP**, **TypeScript, Jest**
+- 🌱 I’m currently learning **NLP, **TypeScript, Jest**
 
 - 💬 Ask me about **MERN**
 
